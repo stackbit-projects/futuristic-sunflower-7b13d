@@ -17,6 +17,7 @@ sections:
         style: primary
         elementId: hero-main-button
         icon: cart
+        iconPosition: right
     media:
       type: ImageBlock
       url: /images/hero-1.png
