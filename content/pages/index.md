@@ -18,7 +18,7 @@ sections:
         elementId: hero-main-button
         icon: cart
         iconPosition: right
-        showIcon: false
+        showIcon: true
     media:
       type: ImageBlock
       url: /images/hero-1.png
