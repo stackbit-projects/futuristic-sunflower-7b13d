@@ -16,6 +16,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+        icon: cart
     media:
       type: ImageBlock
       url: /images/hero-1.png
