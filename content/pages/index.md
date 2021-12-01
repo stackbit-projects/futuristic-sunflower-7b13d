@@ -14,7 +14,7 @@ sections:
       - type: Button
         label: asd asdasddasdas asd asd
         url: 'https://www.stackbit.com/'
-        style: secondary
+        style: primary
         elementId: hero-main-button
         icon: cart
         iconPosition: right
