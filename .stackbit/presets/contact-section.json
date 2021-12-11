@@ -1,5 +1,5 @@
 {
-    "model": "ContactSection",
+    "model": "_ContactSection",
     "presets": [
         {
             "label": "Contact light - no media",
