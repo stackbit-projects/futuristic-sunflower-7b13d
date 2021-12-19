@@ -206,6 +206,12 @@ sections:
       action: /.netlify/functions/submission_created
       destination: ''
       fields:
+        - name: description
+          label: Description
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
         - type: TextFormControl
           name: name
           label: Name
