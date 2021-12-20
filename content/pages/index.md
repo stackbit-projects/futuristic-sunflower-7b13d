@@ -113,6 +113,15 @@ sections:
         iconPosition: right
         elementId: ''
         type: Link
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     styles:
       self:
         height: auto
