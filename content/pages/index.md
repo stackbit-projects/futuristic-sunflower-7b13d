@@ -32,6 +32,15 @@ sections:
           placeholder: Your home address
           isRequired: true
           width: full
+        - name: city
+          label: City
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
+          type: SelectFormControl
         - name: updates
           label: Sign me up to receive updates
           isRequired: false
