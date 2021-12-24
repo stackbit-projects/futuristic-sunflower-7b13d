@@ -64,6 +64,7 @@ sections:
         style: primary
     posts:
       - content/pages/blog/post-three.md
+      - content/pages/blog/postlayout-8qr9n36pn.md
       - content/pages/blog/testblog.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
