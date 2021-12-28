@@ -13,6 +13,7 @@ sections:
       - content/data/team/desmond-eagle.json
       - content/data/team/person-r81n3yvk9.json
       - content/data/team/person-cetlh8aof.json
+      - content/data/team/person-4yfmacj31.json
       - content/data/team/person-5dqvvlymg.json
       - content/data/team/hilary-ouse.json
     styles:
