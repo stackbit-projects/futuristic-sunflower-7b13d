@@ -11,6 +11,7 @@ sections:
     people:
       - content/data/team/person-pcktnl63g.json
       - content/data/team/desmond-eagle.json
+      - content/data/team/person-r81n3yvk9.json
       - content/data/team/hilary-ouse.json
     styles:
       self:
