@@ -181,6 +181,7 @@ sections:
         style: primary
     posts:
       - content/pages/blog/post-three.md
+      - content/pages/blog/postlayout-vkr3u0bno.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
     showDate: false
