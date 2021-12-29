@@ -247,6 +247,7 @@ sections:
     posts:
       - content/pages/blog/123123.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/postlayout-tv8x5vtcg.md
       - content/pages/blog/postlayout-b5v3d7cu2.md
       - content/pages/blog/wwww.md
       - content/pages/blog/postlayout-zlwv3llta.md
