@@ -46,6 +46,7 @@ sections:
     actions: []
     people:
       - content/data/team/person-pcktnl63g.json
+      - content/data/team/person-wejmc0936.json
       - content/data/team/person-zjmmcze77.json
       - content/data/team/person-4hg6ycptk.json
       - content/data/team/desmond-eagle.json
