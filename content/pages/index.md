@@ -45,6 +45,7 @@ sections:
     subtitle: Featured people section example
     actions: []
     people:
+      - content/data/team/person-a25swu8wy.json
       - content/data/team/desmond-eagle.json
       - content/data/team/person-jjslic5fe.json
       - content/data/team/person-ekpb2kvha.json
