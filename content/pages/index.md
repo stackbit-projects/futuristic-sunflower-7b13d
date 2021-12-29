@@ -114,6 +114,7 @@ sections:
     actions: []
     people:
       - content/data/team/person-pcktnl63g.json
+      - content/data/team/person-17gktjx89.json
       - content/data/team/person-u6znnvyy4.json
       - content/data/team/person-wejmc0936.json
       - content/data/team/person-zjmmcze77.json
