@@ -188,6 +188,7 @@ sections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
       - content/pages/blog/postlayout-1snt9swou.md
+      - content/pages/blog/postlayout-qu983fqm8.md
     showDate: false
     showAuthor: false
     styles:
