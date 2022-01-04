@@ -185,6 +185,7 @@ sections:
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/postlayout-5w1dwcy50.md
+      - content/pages/blog/postlayout-rxecjqt3i.md
       - content/pages/blog/postlayout-bd8q6faa9.md
       - content/pages/blog/postlayout-vkr3u0bno.md
       - content/pages/blog/post-two.md
