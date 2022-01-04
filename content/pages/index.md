@@ -43,6 +43,32 @@ sections:
     title: Testimonials
     subtitle: What our customers say about us
     testimonials:
+      - quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+        elementId: ''
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: left
+          name:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
       - quote: >
           "Very professional team. I loved working with the people at
           startup.io."
