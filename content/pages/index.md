@@ -64,6 +64,14 @@ sections:
         label: Learn More
         url: /
         style: secondary
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/hero-3.jpg
