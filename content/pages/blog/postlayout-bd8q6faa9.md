@@ -12,7 +12,6 @@ featuredImage:
 bottomSections: []
 layout: PostLayout
 _slug: '666666'
-author: content/data/team/person-n35jswp0a.json
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
         
