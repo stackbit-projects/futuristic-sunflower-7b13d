@@ -280,6 +280,7 @@ sections:
     people:
       - content/data/team/person-a25swu8wy.json
       - content/data/team/person-dces6nzzn.json
+      - content/data/team/person-eo8f9jlrm.json
       - content/data/team/desmond-eagle.json
       - content/data/team/person-5dqvvlymg.json
       - content/data/team/person-eg17oxpfg.json
