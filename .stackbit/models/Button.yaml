@@ -21,6 +21,7 @@ fields:
     name: url
     label: URL
     default: '/'
+    required
   - type: boolean
     name: showIcon
     group: styles
