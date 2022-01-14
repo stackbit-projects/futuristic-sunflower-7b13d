@@ -11,7 +11,7 @@ fields:
   - type: string
     name: label
     label: Label
-    default: Learn more
+    default: Learn more Test
     required: true
   - type: string
     name: altText
