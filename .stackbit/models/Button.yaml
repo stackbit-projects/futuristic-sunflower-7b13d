@@ -12,6 +12,7 @@ fields:
     name: label
     label: Label
     default: Learn more
+    required: true
   - type: string
     name: altText
     label: Alt text
